@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @R4l7
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-R4l7/R4l7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🍳 **Good morning**, my name is "***R4l7!***".
+I'm an *amateur* in **Programming**, I use **Javascript** a lot and I'm interested in learning how to use **Html + Css** to create *websites*
+and much more! 😄 
